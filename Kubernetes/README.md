@@ -1,1 +1,1 @@
-bad update
+Initial text
