@@ -22,3 +22,11 @@ kind: making changes on git-hub web browser
 
 apiversion: v3
 kind: making changes to check what is fetch command
+<<<<<<< HEAD
+=======
+
+apiverson: V4
+kind: making change for PULL command
+
+echo " HELLO"
+>>>>>>> f1ea21ca6ebe9772685e55c4664840e4b9ff0c19
